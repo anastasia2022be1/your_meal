@@ -7,4 +7,15 @@
 
     background: #F2F2F3;
     border-radius: 8px;
+
+    padding: 7px 8px;
+
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.count__minus,
+.count__plus {
+    width: 8px;
 }
