@@ -101,13 +101,13 @@ margin-bottom: 13px;
     margin-bottom: 6px;
 }
 
-.order__product-price {
+/* .order__product-price {
    
 }
 
 .order__product-count {
 
-}
+} */
 .order__total {
     display: flex;
     align-items: center;
